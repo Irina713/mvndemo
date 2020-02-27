@@ -4,7 +4,13 @@
     <list default="true" id="beff3475-6eaf-4df1-a249-16e6e967300c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/automation/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/automation/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cobertura/cobertura.ser" beforeDir="false" afterPath="$PROJECT_DIR$/target/cobertura/cobertura.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cobertura/com.epam.automation.App.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cobertura/com.epam.automation.App.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cobertura/frame-summary-com.epam.automation.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-summary-com.epam.automation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cobertura/frame-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-summary.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.epam.automation.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.epam.automation.AppTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.epam.automation.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.epam.automation.AppTest.txt" afterDir="false" />
     </list>
@@ -32,6 +38,7 @@
   <component name="ProjectId" id="1V7EhEgQg2BCVBaJjfJnKPbgeuQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">

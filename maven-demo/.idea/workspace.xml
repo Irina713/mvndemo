@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="beff3475-6eaf-4df1-a249-16e6e967300c" name="Default Changelist" comment="" />
+    <list default="true" id="beff3475-6eaf-4df1-a249-16e6e967300c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cobertura/com.epam.automation.App.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cobertura/com.epam.automation.App.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cobertura/frame-summary-com.epam.automation.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-summary-com.epam.automation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cobertura/frame-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cobertura/frame-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.epam.automation.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.epam.automation.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.epam.automation.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.epam.automation.AppTest.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

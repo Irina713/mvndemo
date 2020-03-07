@@ -1,5 +1,4 @@
-#Thu Feb 27 17:54:37 MSK 2020
-module-resource*?\:checkstyle-suppressions.xml=7842645AAC38FCA945ABD84AA2C36027C90A7652
-module-resource*?\:checkstyle-xpath-suppressions.xml=CE0AF5C175F7675A2C304F8B0F760B06DE65FF58
-Thu=Feb 27 17\:50\:04 MSK 2020
+#Sat Mar 07 20:07:38 MSK 2020
+module-resource*?\:checkstyle-suppressions.xml=D333901EB3F0391C9C6350251BF1FD08C5AB82CF
+module-resource*?\:checkstyle-xpath-suppressions.xml=8F86403FE7A7618DCEEEE96138454D75E1906104
 configuration*?=5719763D8128921448E9CE60FBB0145B937EEBBC
